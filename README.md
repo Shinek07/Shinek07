@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2021/12/Programming-Language-Projects.jpg)
 
 <h1 align="center">Hi 👋, I'm Shinepreet Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
